@@ -21,8 +21,8 @@
 
 import numpy as np
 import tensorflow as tf
-from tensorflow.contrib.rnn.python.ops.core_rnn_cell_impl import LSTMCell
-from tensorflow.python.ops.rnn_cell_impl import _RNNCell as RNNCell
+from tensorflow.contrib.rnn import LSTMCell
+from tensorflow.contrib.rnn import RNNCell
 from tensorflow.python.util import nest
 
 from hart.model import tensor_ops

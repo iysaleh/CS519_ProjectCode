@@ -35,7 +35,7 @@ for img_path in $(find . -iname *.png); do
         mkdir -p $output_dir
     fi
 
-    convert -resize 621x187 $img_path $output_path
+    convert -resize 621x187! $img_path $output_path
 done
 
 cd -

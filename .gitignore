@@ -3,3 +3,4 @@
 checkpoints/bvlc_alexnet.npy
 .ipynb_checkpoints
 data
+results
