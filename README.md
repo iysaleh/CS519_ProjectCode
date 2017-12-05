@@ -3,7 +3,7 @@ This project is mostly a fork from https://github.com/akosiorek/hart with a few 
 
 ## My Experimental Dataset
 * Download the Experimental Dataset here (1.3 GB .tar.xz compressed): [Experimental Dataset Google Drive Link](https://drive.google.com/file/d/1uol64kxWbfPgkAf_SMdBESCtJGfmWf6T/view?usp=sharing)
-** Note, the images have already been compressed and resized to work with the HART model.
+* Note, the images have already been compressed and resized to work with the HART model.
 
 ### Successfully Completed Project Goals
 * Updated HART code to use newest version of Tensorflow
